@@ -18,7 +18,7 @@
     .navbar{
         width: 100%;
         margin: auto;
-        padding: 35px 0;
+        padding: 20px 0;
         display: flex;
         align-items: center;
         justify-content: space-between;
@@ -179,4 +179,10 @@
       .kontakt{
        position:fixed;
       }
-  
+  .navn{
+    position:relative; right:250px; top:2px;
+    font-size: 30;
+  }
+  .logo{
+    position:relative; right:-20px; top:2px;
+  }
